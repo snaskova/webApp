@@ -1,0 +1,11 @@
+{
+  "name": "interview",
+  "version": "1.0.0",
+  "description": "This is a interview test, build a Allocate fruit display!",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Adams",
+  "license": "ISC"
+}
